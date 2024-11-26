@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ntv14\\Downloads\\Nhom_4 (1)\\Nhom4\\Nhom4_SourceCode\\BackEnd\\QLKhachSanAPI.csproj": {}
+    "C:\\Users\\ntv14\\Desktop\\HotelManagementApi\\BackEnd\\QLKhachSanAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ntv14\\Downloads\\Nhom_4 (1)\\Nhom4\\Nhom4_SourceCode\\BackEnd\\QLKhachSanAPI.csproj": {
+    "C:\\Users\\ntv14\\Desktop\\HotelManagementApi\\BackEnd\\QLKhachSanAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ntv14\\Downloads\\Nhom_4 (1)\\Nhom4\\Nhom4_SourceCode\\BackEnd\\QLKhachSanAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ntv14\\Desktop\\HotelManagementApi\\BackEnd\\QLKhachSanAPI.csproj",
         "projectName": "QLKhachSanAPI",
-        "projectPath": "C:\\Users\\ntv14\\Downloads\\Nhom_4 (1)\\Nhom4\\Nhom4_SourceCode\\BackEnd\\QLKhachSanAPI.csproj",
+        "projectPath": "C:\\Users\\ntv14\\Desktop\\HotelManagementApi\\BackEnd\\QLKhachSanAPI.csproj",
         "packagesPath": "C:\\Users\\ntv14\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ntv14\\Downloads\\Nhom_4 (1)\\Nhom4\\Nhom4_SourceCode\\BackEnd\\obj\\",
+        "outputPath": "C:\\Users\\ntv14\\Desktop\\HotelManagementApi\\BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

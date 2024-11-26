@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8mYU4gnhTbM=",
+  "dgSpecHash": "EHZzRjE6t9U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ntv14\\Downloads\\Nhom_4 (1)\\Nhom4\\Nhom4_SourceCode\\BackEnd\\QLKhachSanAPI.csproj",
+  "projectFilePath": "C:\\Users\\ntv14\\Desktop\\HotelManagementApi\\BackEnd\\QLKhachSanAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ntv14\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ntv14\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
